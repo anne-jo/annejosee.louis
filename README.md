@@ -33,7 +33,7 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
   <p align="center">
   <img src="img/rapport_supply.png" alt="Aperçu du rapport Power BI" width="600">
 </p>
-📂 [Télécharger le rapport Power BI (PBIX)](rapport_supply.pbix)
+📂 [Télécharger le rapport Power BI (PBIX)](fichier/rapport_supply.pbix)
 
 
 ---
