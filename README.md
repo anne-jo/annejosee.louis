@@ -30,6 +30,10 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
 
 📈 **Suivi des livraisons avec PowerBI**  
   Tableau de bord
+  <p align="center">
+  <img src="img/rapport_supply.png" alt="Aperçu du rapport Power BI" width="600">
+</p>
+
 ---
 
 ## 🎓 Parcours  
