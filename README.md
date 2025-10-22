@@ -29,7 +29,7 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
 ## 📂 Projets présentés ici  
 
 📈 **Suivi des livraisons avec PowerBI**  
- Tableau de bord 
+  Tableau de bord
 ---
 
 ## 🎓 Parcours  
@@ -55,7 +55,7 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
 
 📧 [annejosee.louis@gmail.com](mailto:annejosee.louis@gmail.com)  
 💼 [LinkedIn – Anne-Josée LOUIS](https://www.linkedin.com/in/anne-josee-louis)  
-📊 [GitLab – annejosee.louis](https://gitlab.com/annejosee.louis)  
+
 
 ---
 ✨ *« La donnée n’a de valeur que si elle éclaire les décisions et rapproche les personnes. »*  
