@@ -1,4 +1,4 @@
-# 🌟 Anne-Josée LOUIS — Data Analyst | Data Scientist 
+# Anne-Josée LOUIS — Data Analyst | Data Scientist 
 
 🎯 **Transformer les données en leviers de confiance, de compréhension et de décision**
 
@@ -29,7 +29,7 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
 ## 📂 Projets présentés ici  
 
 📈 **Suivi des livraisons avec PowerBI**  
-> Tableau de bord 
+ Tableau de bord 
 ---
 
 ## 🎓 Parcours  
