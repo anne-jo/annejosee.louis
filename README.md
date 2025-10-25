@@ -35,6 +35,36 @@ Mon objectif : faire parler les données pour **améliorer les processus**, **fi
 </p>
 📂 [Télécharger le rapport Power BI (PBIX)](fichier/rapport_supply.pbix)
 
+📊 **Analyse des Fast-Foods dans les 10 plus grandes villes**
+
+Ce projet présente une analyse exploratoire des enseignes de fast-food les plus implantées dans 10 grandes villes des États-Unis.  
+Les données ont été traitées avec **R** et visualisées avec **ggplot2**.
+
+---
+
+## 📁 Fichiers du projet
+
+- 📜 **Script R principal** : [`analyse_fast_food.R`](fichier/analyse_fast_food.R)  
+  Contient le code d’extraction, de filtrage et de visualisation des données.
+
+- 📄 **Graphique PDF** : [`fast_food.pdf`](./fast_food.pdf)  
+  Affiche la répartition des 10 enseignes de fast-food les plus implantées dans les 10 villes sélectionnées.
+
+---
+
+## 🧠 Aperçu du code
+
+# Extrait du script R
+pdf("fast_food.pdf")
+g <- ggplot(fast_food_tibble_10_villes_10_restaurants, aes(city, fill = name)) +
+  geom_bar() +
+  theme_minimal() +
+  ggtitle("Représentation des fast-foods les plus implantés \n dans les 10 capitales du fast-food")
+g
+dev.off()
+
+
+
 
 ---
 
