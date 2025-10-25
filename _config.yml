@@ -4,3 +4,7 @@ description : "Portfolio Data Analyst - Data Scientist"
 show_downloads : true
 theme : jekyll-theme-cayman
 lang : fr
+
+# Convertir ton PDF en PNG dans R
+library(pdftools)
+pdf_convert("fichier/fast_food.pdf", format = "png", dpi = 300)
