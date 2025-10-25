@@ -47,7 +47,10 @@ Les données ont été traitées avec **R** et visualisées avec **ggplot2**.
 - 📜 **Script R principal** : [`analyse_fast_food.R`](fichier/analyse_fast_food.R)  
   Contient le code d’extraction, de filtrage et de visualisation des données.
 
-- 📄 **Graphique PDF** : [`fast_food.pdf`](./fast_food.pdf)  
+- 📄 **Graphique ** :
+  <p align="center">
+  <img src="img/fast_food.png" alt="Aperçu du rapport R" width="600">
+</p>
   Affiche la répartition des 10 enseignes de fast-food les plus implantées dans les 10 villes sélectionnées.
 
 ---
