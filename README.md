@@ -50,8 +50,7 @@ Les données ont été traitées avec **R** et visualisées avec **ggplot2**.
 - 📄 **Graphique ** :
   <p align="center">
   <img src="img/fast_food.jpg" alt="Aperçu du rapport R" width="600">
-</p>
-  Affiche la répartition des 10 enseignes de fast-food les plus implantées dans les 10 villes sélectionnées.
+
 
 ---
 
