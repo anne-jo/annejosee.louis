@@ -47,26 +47,9 @@ Les données ont été traitées avec **R** et visualisées avec **ggplot2**.
 - 📜 **Script R principal** : [`analyse_fast_food.R`](fichier/analyse_fast_food.R)  
   Contient le code d’extraction, de filtrage et de visualisation des données.
 
-- 📄 **Graphique ** :
+- 📄 **Graphique** :
   <p align="center">
   <img src="img/fast_food.jpg" alt="Aperçu du rapport R" width="600">
-
-
----
-
-## 🧠 Aperçu du code
-
-# Extrait du script R
-pdf("fast_food.pdf")
-g <- ggplot(fast_food_tibble_10_villes_10_restaurants, aes(city, fill = name)) +
-  geom_bar() +
-  theme_minimal() +
-  ggtitle("Représentation des fast-foods les plus implantés \n dans les 10 capitales du fast-food")
-g
-dev.off()
-
-
-
 
 ---
 
